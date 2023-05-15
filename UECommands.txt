@@ -1,0 +1,16 @@
+Cmd: r.ScreenPercentage 50
+LogEngine: Display: r.ScreenPercentage=50.000000 is ignored because overriden by editor settings (r.Editor.Viewport.OverridePIEScreenPercentage). Change this behavior in Edit -> Editor Preferences -> Performance
+r.ScreenPercentage = "50"
+Cmd: sg.PostProcessQuality 1
+LogConfig: Applying CVar settings from Section [PostProcessQuality@1] File [Scalability]
+sg.PostProcessQuality = "1"
+Cmd: r.PostProcessAAQuality 1
+Command not recognized: r.PostProcessAAQuality 1
+Cmd: sg.ShadowQuality 1
+LogConfig: Applying CVar settings from Section [ShadowQuality@1] File [Scalability]
+sg.ShadowQuality = "1"
+Cmd: sg.EffectsQuality 1
+LogConfig: Applying CVar settings from Section [EffectsQuality@1] File [Scalability]
+sg.EffectsQuality = "1"
+Cmd: t.MaxFPS 60
+t.MaxFPS = "60"
