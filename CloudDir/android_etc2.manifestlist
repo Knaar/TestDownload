@@ -1,0 +1,14 @@
+{
+	"ClientVersion": "DLC1.0",
+	"BuildUrl": "DLC1.0/Android_ETC2",
+	"files": [
+		{
+			"filename": "AndroidDLC_AndroidDLCDLC1.0.manifest",
+			"uniqueFilename": "AndroidDLC_AndroidDLCDLC1.0.manifest",
+			"length": 937,
+			"URL": "AndroidDLC_AndroidDLCDLC1.0.manifest",
+			"hash": "088590DA9A2E1079021830502387AB0E96F1528E",
+			"hash256": "3D39068ECA0556B243122DAA64DB41CD6421D07C9380F496557C44546F4E896D"
+		}
+	]
+}
